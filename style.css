@@ -312,41 +312,18 @@ margin-top: -17%;
   text-align: center;
 }
 .parrafo9{
-    font-family: 'Dancing Script', cursive; 
-    font-size: 24px;
-    color: #414141;
-    font-weight: 550;
-    margin-top: 5%;
-    text-align: center;
-   
-}
-.parrafo10{
   text-align: center;
-  font-family: 'Julius Sans One', sans-serif;
-   font-size: 19px;
-   color: #C29150;
-   font-weight: 800;
- margin-top: 25%;
-}
-.parrafo11{
-    font-family: 'Dancing Script', cursive; 
-    font-size: 24px;
-    color: #414141;
-    font-weight: 550;
-    margin-top: 5%;
-    text-align: center;
-   
-  
+ font-family: "Playfair Display", serif;
+   font-size: 23px;
+  color:  #242424;
+   font-weight: 500;
+   margin-top: 10%;
 }
 
-.parrafo13{
-  text-align: center;
-  font-family: 'Julius Sans One', sans-serif;
-   font-size: 19px;
-   color: #C29150;
-   font-weight: 800;
-margin-top: 15%;
-}
+
+
+
+
 .percha{
   width: 15%;
   margin-left: 43%;
@@ -356,6 +333,11 @@ margin-top: 15%;
   width: 12%;
   margin-left: 46%;
   margin-top: 10%;
+}
+.cbu{
+  width: 110%;
+  margin-left: -3%;
+  
 }
 .fraseregalo{
  width: 46%;
@@ -392,37 +374,15 @@ margin-top: 15%;
   .a{
     text-decoration: none;
   }
-.cardimg{
-  width: 60%;
-  height: 60%;
-  margin-left: 20%;
- 
-}
+
 .final{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 30px;
-  color: #303030;
-  font-weight: 580;
-  margin-top: 15%;
-}
-.coral{
-  width: 45%;
-  margin-top: 8%;
-  margin-left: 28%;
-}
-.florfinal{
-  width: 25%;
-  margin-top: -2%;
-  margin-left: 38%;
+   width: 100%;
+margin-top: 15%;
 }
 
 
-.carousel-inner img{
-  width: 80%;
-  border-radius: 5%;
-  margin-top: 10%;
-}
+
+
 
 
 
@@ -443,7 +403,7 @@ margin-top: -49%;
   max-width: 1200px;
   padding: 18px 7px;
   text-align: center;
-  margin-top: 20%;
+  
   background-color: #ffffff;
   font-size: 100%;
 }
@@ -458,7 +418,7 @@ margin-top: -49%;
 
 .box__copyright a {
   text-decoration: none;
-  color: #b8a551;
+  color: #c5bfa2;
 }
 .logo{
   width: 12%;
