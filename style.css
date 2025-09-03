@@ -274,7 +274,7 @@ margin-top: -17%;
   min-width: 120px;
   height: 40px;
   color: #fff;
-  padding: 7px 5px;
+  padding: 7px 7px;
   font-weight: bold;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -289,6 +289,7 @@ margin-top: -17%;
   text-decoration: none;
   font-family: 'Julius Sans One', sans-serif;
   background-size: 55%;
+  font-size: 15px;
 }
 
 .boton4{
@@ -445,12 +446,7 @@ margin-top: -49%;
   text-decoration: none;
   color: #c5bfa2;
 }
-.logo{
-  width: 12%;
-  margin-left: 70%;
-  margin-top: -13%;
 
-}
 
 
  }
